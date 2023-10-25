@@ -1,0 +1,23 @@
+.game-over {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.trophy {
+  width: 40%;
+}
+.button-container {
+  background-color: #cf60c8;
+  display: flex;
+  width: 150px;
+  border-radius: 7px;
+  padding: 7px;
+}
+.play {
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+  border: 0px;
+}
